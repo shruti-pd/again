@@ -10,7 +10,7 @@ Analysis of the spread of corona virus in Italy.For details analysis refer my Gi
 <br>
 
 </br>
-<b>Reference</b>
-•	https://www.kaggle.com
-•	https://towardsdatascience.com 
-•	https://www.machinelearningplus.com
+<b>Reference</b><br></br>
+•	https://www.kaggle.com <br></br>
+•	https://towardsdatascience.com<br></br> 
+•	https://www.machinelearningplus.com<br></br>
